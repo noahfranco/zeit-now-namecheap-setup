@@ -1,14 +1,13 @@
-# zeit-now-namecheap-setup
-How to set up Namecheap Private Email records for domains with third-party DNS with Zeit via `CLI now` commands 
+# Vercel-now-namecheap-setup
+How to set up Namecheap Private Email records for domains with third-party DNS with Vercel via `CLI now` commands 
 
 ## Objective
 
-I created this documintation so that you will have a step by step guide on setting up your DNS records from Namecheap with Zeit now. After reading through this documintation, you should be able to have your DNS configured with Zeit now successfully. 
+I created this documintation so that you will have a step by step guide on setting up your DNS records from Namecheap with Vercel now. After reading through this documintation, you should be able to have your DNS configured with Vercel now successfully. 
 
 ### Technologies
 
-- Zeit now
-- Vercel
+- Vercel CLI
 - Namecheap
 
 ### Instructions
@@ -23,6 +22,13 @@ Make sure to replace `yourdomain.com` with your domain name. If you need help wi
  
  ### Docs 
  - [list of the essential records](https://www.namecheap.com/support/knowledgebase/article.aspx/1340/2176/namecheap-private-email-records-for-domains-with-thirdparty-dns)
+ - [install Vercel](https://vercel.com/download)
+ 
+ ## Conclusion
+ 
+In conclusion, you should now be able to login to your Vercel Dashboard, and under "Recently Active" you should see a message: "You added a DNS record for yourdomain.com" for MX and TXT. 
+
+Inspired by @jaydenseric [zeit now g-suite-setup](https://gist.github.com/jaydenseric/cf7e548d3ce035da05fae5782878b80f)
 
 
 
