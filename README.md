@@ -28,7 +28,7 @@ Make sure to replace `yourdomain.com` with your domain name. If you need help wi
  
 In conclusion, you should now be able to login to your Vercel Dashboard, and under "Recently Active" you should see a message: "You added a DNS record for yourdomain.com" for MX and TXT. 
 
-Inspired by @jaydenseric [zeit now g-suite-setup](https://gist.github.com/jaydenseric/cf7e548d3ce035da05fae5782878b80f)
+Inspired by [@jaydenseric](https://gist.github.com/jaydenseric) [zeit now g-suite-setup](https://gist.github.com/jaydenseric/cf7e548d3ce035da05fae5782878b80f)
 
 
 
