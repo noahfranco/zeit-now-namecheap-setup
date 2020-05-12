@@ -13,7 +13,7 @@ I created this documintation so that you will have a step by step guide on setti
 
 ### Instructions
 
-Make sure to replace `yourdomain.com` with your domain name
+Make sure to replace `yourdomain.com` with your domain name. If you need help with the command type `now dns --help` in your CLI
 
 `now dns add yourdomain.com @ TXT v=spf1include:spf.privateemail.com~all`
 
@@ -21,6 +21,8 @@ Make sure to replace `yourdomain.com` with your domain name
 
 `now dns add yourdomain.com @ MX mx2.privateemail.com 10` 
  
+ ### Docs 
+ - [list of the essential records](https://www.namecheap.com/support/knowledgebase/article.aspx/1340/2176/namecheap-private-email-records-for-domains-with-thirdparty-dns)
 
 
 
